@@ -8,15 +8,14 @@ action installs the Chrome Extension on your Google
 Chrome browser.
 
 ## 2. Starting the Server:
-a. Navigate to the "FlaskApp" folder on your system. <br>
-b. Determine which model you want to use. For a non-
+a. Determine which model you want to use. For a non-
 machine learning model, use the flask.py file. For a
 model that uses BERT, use the FlaskBert.py file. <br>
-c. Open a terminal, navigate to the folder containing the
+b. Open a terminal, navigate to the folder containing the
 appropriate Python file, and run it. This action starts
 the server for the chosen model type. Note that you
 only need to start the server once to summarize multi-
-ple articles or websites. <br>
+ple articles or websites.
 
 ## 3. Summarizing an Article:
 a. With the server running, navigate to the website con-
