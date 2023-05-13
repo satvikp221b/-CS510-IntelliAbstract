@@ -14,8 +14,7 @@ model that uses BERT, use the FlaskBert.py file. <br>
 b. Open a terminal, navigate to the folder containing the
 appropriate Python file, and run it. This action starts
 the server for the chosen model type. Note that you
-only need to start the server once to summarize multi-
-ple articles or websites.
+only need to start the server once to summarize multiple articles or websites.
 
 ## 3. Summarizing an Article:
 a. With the server running, navigate to the website con-
