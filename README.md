@@ -28,4 +28,4 @@ will generate a summary of the article and display it
 in the user interface.
 Remember that you need to keep the server running as long
 as you’re using the Chrome Extension. If you stop the server,
-the extension will not be able to generate summaries
+the extension will not be able to generate summaries.
