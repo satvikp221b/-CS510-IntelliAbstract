@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "IntelliAbstract",
+  "description": "Summarize the content on the current page.",
+  "version": "1.0",
+  "action": {
+	"default_popup":"popup.html",
+	"default_title": "First Google Chrome Extension"
+},
+  "permissions": [
+    "activeTab"
+   ],
+  "content_scripts" : [
+   { 
+     "js": ["content.js","jquery-3.6.3.min.js"],
+     "matches": ["<all_urls>"]
+   }
+ ]
+}
