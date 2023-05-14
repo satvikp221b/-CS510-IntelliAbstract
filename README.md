@@ -8,8 +8,7 @@ action installs the Chrome Extension on your Google
 Chrome browser.
 
 ## 2. Starting the Server:
-a. Determine which model you want to use. For a non-
-machine learning model, use the flask.py file. For a
+a. Determine which model you want to use. For a non-machine learning model, use the flask.py file. For a
 model that uses BERT, use the FlaskBert.py file. <br>
 b. Open a terminal, navigate to the folder containing the
 appropriate Python file, and run it. This action starts
